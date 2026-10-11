@@ -2,5 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>CaptionLab</title>
+        <item>
+            <title>CaptionLab 1.3.6</title>
+            <pubDate>Sun, 11 Oct 2026 19:57:31 +0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>&quot;Impacto em negativo&quot; e &quot;Impacto em vidro&quot; aparecem na prévia, no app e dentro do Final Cut.</li><li>A palavra de impacto já está legível quando é falada (antes entrava borrada e tarde).</li><li>A entrada &quot;Neon&quot; brilha de verdade, na prévia e no Final Cut.</li><li>Um estilo da galeria com &quot;Em todas&quot; volta todas as legendas ao estilo; a posição movida à mão e as palavras de impacto escolhidas ficam.</li><li>As cores salvas e o &quot;+&quot; aparecem em toda fileira de cor.</li><li>A Entrada da Animação (passo 3) é uma grade de botões. O vídeo grande tem um botão para sair.</li><li>Na revisão, as palavras corrigidas ficam em roxo e o ícone das dinâmicas se explica.</li><li>A rolagem do mouse vai para o painel Presets (e para os outros painéis), sem mexer no vídeo atrás.</li><li>A margem do Instagram/TikTok está mais parecida com a tela de verdade.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/captionlab-releases/releases/download/v1.3.6/CaptionLab-1.3.6.zip" sparkle:edSignature="9kGYslXGlbeRbTG/RSrCdSRilnxLwc11npnug7uRaWzvCFC/V7JwXhA8BpHpbmCoS66c8XhQT/Lv99SA1rXtBA==" length="40164137" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>

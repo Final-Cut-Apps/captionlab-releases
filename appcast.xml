@@ -3,6 +3,16 @@
     <channel>
         <title>CaptionLab</title>
         <item>
+            <title>CaptionLab 1.3.12</title>
+            <pubDate>Tue, 13 Oct 2026 15:21:42 +0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>1.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>As dinâmicas com acento no nome (como &quot;Foco Relâmpago&quot; e &quot;Pisca Relâmpago&quot;) não chegam mais cinza no Final Cut: o CaptionLab reinstala esses títulos do jeito certo sozinho. Se o Final Cut estiver aberto, ele avisa para reiniciar.</li><li>Os títulos caem sempre exatamente num quadro, então o Final Cut não mostra mais &quot;fora do quadro de edição&quot; com vídeo de celular.</li><li>Exportar ficou mais seguro: tiramos três jeitos de o app fechar sozinho ao exportar, enviar ou salvar o FCPXML.</li><li>As legendas entram um pouquinho antes da fala (0,05 s), em vez de chegar atrasadas. As que você aparou à mão ficam onde você pôs.</li><li>Agora dá para selecionar várias legendas: ⌘-clique junta ou tira, ⇧-clique pega um trecho, ⌘A pega todas. Arraste uma e todas andam juntas. A vírgula e o ponto movem um quadro (com ⇧, dez).</li><li>⌘C copia as legendas selecionadas e ⌘V cola na agulha. ⌥⌘V cola o estilo da copiada nas selecionadas.</li><li>Delete apaga as selecionadas (numa dinâmica, tira só a dinâmica). Um ⌘Z traz tudo de volta.</li><li>Dá para pôr uma dinâmica em só um pedaço da frase: no painel &quot;Nova dinâmica&quot;, clique na primeira e na última palavra que você quer.</li><li>A timeline usa camadas: quando dois blocos se encostam, cada um ganha sua faixa, e nenhum fica escondido atrás do outro.</li><li>O app ficou mais leve: editar ficou até cerca de 2 vezes mais rápido, e arrastar os controles de estilo ficou cerca de 3 vezes mais leve.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/captionlab-releases/releases/download/v1.3.12/CaptionLab-1.3.12.zip" sparkle:edSignature="qOO9GBzOuMIevGa2ZCZd/ULK36rBAMVsFQ3o0isaUQ2RDB2tBgDJzcaEOiK4TrfoScA9KcpRKMPPAt8NBEp6BA==" length="41322968" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>CaptionLab 1.3.11</title>
             <pubDate>Mon, 12 Oct 2026 19:11:06 +0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>

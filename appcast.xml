@@ -3,6 +3,16 @@
     <channel>
         <title>CaptionLab</title>
         <item>
+            <title>CaptionLab 1.3.15</title>
+            <pubDate>Wed, 14 Oct 2026 05:44:12 +0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.3.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>A prévia não trava mais no play quando a legenda tem um Corretor (a palavra em negativo): o vídeo roda liso do começo ao fim.</li><li>&quot;Abertura contínua&quot; agora mistura várias dinâmicas que você escolher: escolha 2 de cada grupo e o app vai alternando entre elas, cada uma numa frase do tamanho certo, sem repetir a anterior. A abertura dura 5 segundos por padrão, e um projeto novo começa com as suas últimas escolhas.</li><li>A galeria de dinâmicas ficou agrupada em &quot;2 palavras&quot;, &quot;3 palavras&quot; e &quot;3 ou mais&quot;, e cada cartão mostra um selo com o grupo. ⌘-clique num cartão põe ou tira a dinâmica da abertura.</li><li>Uma dinâmica de 2 palavras nunca mais vai numa frase de 3: as regras e a IA pulam a frase que nenhuma dinâmica aceita, e o &quot;+&quot; escolhe uma que serve.</li><li>Dividir uma dinâmica não escreve mais &quot;Dinâmica dividida em duas&quot; no alto da janela.</li><li>O app ficou bem mais leve: mover uma legenda está cerca de 3 vezes mais rápido, trocar e editar dinâmicas cerca de 2 vezes, e o app usa uns 25% menos o processador enquanto você edita.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/captionlab-releases/releases/download/v1.3.15/CaptionLab-1.3.15.zip" sparkle:edSignature="dGjdQ6gIMA2m28tXKbcydjiOysYfjsLc6EGu4/2Y18c1FvYLnwuxQ/0mZ3J6VrYFh8T9Viu81gHK/hhLtNxxCw==" length="42478360" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>CaptionLab 1.3.14</title>
             <pubDate>Tue, 13 Oct 2026 20:10:31 +0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
